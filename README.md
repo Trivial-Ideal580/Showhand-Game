@@ -1,2 +1,3 @@
 # Showhand-Game
-A A simplified text-based showhand game
+A simplified text-based showhand game
+Run showhand.py to play
